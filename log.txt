@@ -1,0 +1,8 @@
+adicionar sistema de rpg
+criação de personagens ficha
+com um botõa de adição que vai acrescentando em um modo q n dá para modificar.
+quando chegar no limite a cor vai ficar vermelha.
+colocar uma descrição do personagem de acordo com a build dele
+dar pequenas opções de aparencia do personagem que podem ser interagidas futuramente.
+as vezes algum npc pode confundir ele pela aparencia, ou até mesmo pelo tamanho ele pode alcançar
+alguns lugares por ser mais alto ou mais baixo.
